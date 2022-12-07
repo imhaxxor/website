@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+
+
+}
+
+div.main{
+    position: absolute;
+    background-color: aliceblue;
+    text-align: center;
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    left: 50%;
+    top: 50%;
+    border-radius: 15px;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    
+}
+
+div.main h1{
+    text-align: center;
+    color: red;
+    background-color: blue;
+    border-bottom: 3px solid red;
+
+}
+
