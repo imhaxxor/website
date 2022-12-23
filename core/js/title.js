@@ -1,4 +1,4 @@
-var text = ["$$", "$ $", "$ f $", "$ fo $", "$ foa $", "$ foam $", "$ foamm $", "$ foammy $", "$ foammy  $", "$ foammy o $", "$ foammy ov $", "$ foammy ovh $", "$ foammy ov $", "$ foammy o $", "$ foammy  $", "$ foammy $", "$ foamm $", "$ foam $", "$ foa $", "$ fo $", "$ f $", "$ $","$$"];
+var text = ["$$", "$ $", "$ S $", "$ SY $", "$ SYS $", "$ SYST $", "$ SYSTE $", "$ SYSTE $", "$ SYSTEM  $", "$ SYSTEMS o$", "$  SYSTEMS ov $", "$  SYSTEMS ovh $", "$  SYSTEMS ov $", "$  SYSTEMS o $", "$ SYSTEM  $", "$ SYSTEM $", "$ SYSTEM $", "$ SYSTE $", "$ SYST $", "$ SYS $", "$ SY $", "$ S $","$ $","$$"];
 var counter = 0;
 var inst = setInterval(change, 300);
 
